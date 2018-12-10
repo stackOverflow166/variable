@@ -1,0 +1,14 @@
+{
+  "name": "transitiongroup-component",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-bootstrap": "0.32.1",
+    "react-dom": "16.0.0",
+    "react-transition-group": "2.2.1",
+    "uuid": "3.2.1"
+  }
+}
